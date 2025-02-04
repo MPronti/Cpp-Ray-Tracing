@@ -1,0 +1,9 @@
+# Ignore compiled binary files
+*.obj
+*.exe
+*.dll
+
+# Ignore Visual Studio build folders
+/bin/
+/obj/
+/.vs/
